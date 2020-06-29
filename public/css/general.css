@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
+
+/* GENERAL */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    background-color: #37474f;
+    color: white;
+}
+
+/* FONTS */
+
+.font-bold {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.font-extra-bold {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+
+/* COMPONENTS */
+
+.card {
+    background-color: #607d8b;
+}
+
+.list-group-item {
+    background-color: #607d8b !important;
+}
+
+.list-group-item > a {
+    color: white !important;
+}
+
+.table {
+    background-color: #607d8b !important;
+    color: white !important;
+}
+
+.table td {
+    border-top: none !important;
+}
+
+.modal {
+    color: black;
+}
